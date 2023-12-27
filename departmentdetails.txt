@@ -1,0 +1,5 @@
+The overall result percentage of all departments
+  cse - 90%
+  ece - 92%
+  it - 94%
+  mech - 90%
