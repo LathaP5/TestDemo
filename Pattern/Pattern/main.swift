@@ -89,8 +89,8 @@ user1.printInformation()
  */
 
 
-var value : Int
-var count : Int = 1
+//var value : Int
+//var count : Int = 1
 
 /*
 
@@ -188,7 +188,7 @@ else
 
 
 
-var name = "saranya"
+var name = "nandhini"
 print(name.count)
 
 
