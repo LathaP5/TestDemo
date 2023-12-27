@@ -188,7 +188,7 @@ else
 
 
 
-var name = "latha"
+var name = "saranya"
 print(name.count)
 
 
